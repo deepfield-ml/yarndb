@@ -1,5 +1,5 @@
 # YarnDB: A Thread-Safe, High-Speed In-Memory YAML Database
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/deepfield-ml/yarndb)
 `YarnDB` is a production-ready, in-memory database that stores data in YAML files. It supports generic YAML structures, concurrent reading, thread-safe operations, indexing, transactions, and a powerful CLI.
 
 ## Features
