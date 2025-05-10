@@ -1,0 +1,3 @@
+data_dir: data
+auto_save_interval: 60
+log_level: info
