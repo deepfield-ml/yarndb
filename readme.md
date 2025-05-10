@@ -11,8 +11,52 @@
 - **Transactions**: Supports atomic updates with commit/rollback.
 - **Auto-Save**: Saves to disk periodically (configurable).
 - **CLI**: Intuitive commands for database operations using `cobra`.
+## Home Brew Installation and Usage
+Install via Homebrew:
 
-## Installation
+```bash
+brew install yarndb
+```
+
+Initialize :
+
+```bash
+yarndb init
+```
+
+Add a record:
+
+```bash
+yarndb set record1_1 "name: Alice Smith\ndepartment: engineering\nage: 30"
+```
+
+Query records:
+
+```bash
+yarndb query department=engineering
+```
+
+Create an index:
+
+```bash
+yarndb index department
+```
+
+Run a transaction:
+
+```bash
+yarndb trans
+tx> set record1_2 "name: Bob Jones\ndepartment: marketing"
+tx> commit
+```
+
+Check database status:
+
+```bash
+yarndb status
+```
+
+## Manual Installation
 1. Ensure Go 1.20+ is installed.
 2. Create the project directory:
    ```bash
@@ -25,7 +69,7 @@
    go mod tidy
    ```
 
-## Usage
+## Usage for Manual Installation
 Build the application with:
 ```bash
 go build -o yarndb
@@ -119,6 +163,9 @@ Override with flags:
 - **Limitations**: Best for small to medium datasets. For large-scale production, consider SQLite or Redis.
 - **Logging**: Logs are written to `yarndb.log` and console.
 
+## Requirements: 
+- ** At Least 8GB RAM Suggested
+- ** Intel Cored-Mac (Only Intel-Cored Supported Currently)
 ## License
 Apache 2.0
 
