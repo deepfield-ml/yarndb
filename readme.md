@@ -23,7 +23,7 @@ Initialize :
 ```bash
 yarndb init
 ```
-
+（Creates and loads in a ` data ` folder in current directory)
 Add a record:
 
 ```bash
