@@ -18,12 +18,14 @@ Install via Homebrew:
 brew install yarndb
 ```
 
-Initialize :
+Initialize （Creates and loads in a ` data ` folder in current directory):
 
 ```bash
 yarndb init
 ```
-（Creates and loads in a ` data ` folder in current directory)
+
+
+
 Add a record:
 
 ```bash
