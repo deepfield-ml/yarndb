@@ -1,0 +1,636 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		231B1AA42DF7BA1400EA57A4 /* yarndb in Resources */ = {isa = PBXBuildFile; fileRef = 231B1AA32DF7BA1400EA57A4 /* yarndb */; };
+		231B1AA62DF7BB5000EA57A4 /* yarndb in CopyFiles */ = {isa = PBXBuildFile; fileRef = 231B1AA32DF7BA1400EA57A4 /* yarndb */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		231B1AA82DF7BC6A00EA57A4 /* YarnDBViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 231B1AA72DF7BC5D00EA57A4 /* YarnDBViewModel.swift */; };
+		231B1AAF2DF7BF0000EA57A4 /* Yams in Frameworks */ = {isa = PBXBuildFile; productRef = 231B1AAE2DF7BF0000EA57A4 /* Yams */; };
+		231B1AB12DF7C12500EA57A4 /* YarnDB_GUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 231B1AB02DF7C12400EA57A4 /* YarnDB_GUIApp.swift */; };
+		231B1AB32DF7CDD000EA57A4 /* TerminalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 231B1AB22DF7CBC700EA57A4 /* TerminalView.swift */; };
+		231B1AB62DF7CDFB00EA57A4 /* TerminalViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 231B1AB42DF7CDF700EA57A4 /* TerminalViewModel.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		231B1A872DF7B80300EA57A4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 231B1A6B2DF7B7FE00EA57A4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 231B1A722DF7B7FF00EA57A4;
+			remoteInfo = "YarnDB(GUI)";
+		};
+		231B1A912DF7B80300EA57A4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 231B1A6B2DF7B7FE00EA57A4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 231B1A722DF7B7FF00EA57A4;
+			remoteInfo = "YarnDB(GUI)";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		231B1AA52DF7BB3600EA57A4 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 6;
+			files = (
+				231B1AA62DF7BB5000EA57A4 /* yarndb in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		231B1A732DF7B7FF00EA57A4 /* YarnDB(GUI).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "YarnDB(GUI).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		231B1A862DF7B80300EA57A4 /* YarnDB(GUI)Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "YarnDB(GUI)Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		231B1A902DF7B80300EA57A4 /* YarnDB(GUI)UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "YarnDB(GUI)UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		231B1AA32DF7BA1400EA57A4 /* yarndb */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = yarndb; sourceTree = "<group>"; };
+		231B1AA72DF7BC5D00EA57A4 /* YarnDBViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YarnDBViewModel.swift; sourceTree = "<group>"; };
+		231B1AB02DF7C12400EA57A4 /* YarnDB_GUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YarnDB_GUIApp.swift; sourceTree = "<group>"; };
+		231B1AB22DF7CBC700EA57A4 /* TerminalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TerminalView.swift; sourceTree = "<group>"; };
+		231B1AB42DF7CDF700EA57A4 /* TerminalViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TerminalViewModel.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		231B1AB82DF7D32D00EA57A4 /* Exceptions for "YarnDB(GUI)" folder in "YarnDB(GUI)" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"YarnDB-GUI--Info.plist",
+			);
+			target = 231B1A722DF7B7FF00EA57A4 /* YarnDB(GUI) */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		231B1A752DF7B7FF00EA57A4 /* YarnDB(GUI) */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				231B1AB82DF7D32D00EA57A4 /* Exceptions for "YarnDB(GUI)" folder in "YarnDB(GUI)" target */,
+			);
+			path = "YarnDB(GUI)";
+			sourceTree = "<group>";
+		};
+		231B1A892DF7B80300EA57A4 /* YarnDB(GUI)Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "YarnDB(GUI)Tests";
+			sourceTree = "<group>";
+		};
+		231B1A932DF7B80300EA57A4 /* YarnDB(GUI)UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "YarnDB(GUI)UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		231B1A702DF7B7FF00EA57A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				231B1AAF2DF7BF0000EA57A4 /* Yams in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		231B1A832DF7B80300EA57A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		231B1A8D2DF7B80300EA57A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		231B1A6A2DF7B7FE00EA57A4 = {
+			isa = PBXGroup;
+			children = (
+				231B1A752DF7B7FF00EA57A4 /* YarnDB(GUI) */,
+				231B1A892DF7B80300EA57A4 /* YarnDB(GUI)Tests */,
+				231B1A932DF7B80300EA57A4 /* YarnDB(GUI)UITests */,
+				231B1A742DF7B7FF00EA57A4 /* Products */,
+				231B1AA32DF7BA1400EA57A4 /* yarndb */,
+				231B1AA72DF7BC5D00EA57A4 /* YarnDBViewModel.swift */,
+				231B1AB02DF7C12400EA57A4 /* YarnDB_GUIApp.swift */,
+				231B1AB22DF7CBC700EA57A4 /* TerminalView.swift */,
+				231B1AB42DF7CDF700EA57A4 /* TerminalViewModel.swift */,
+			);
+			sourceTree = "<group>";
+		};
+		231B1A742DF7B7FF00EA57A4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				231B1A732DF7B7FF00EA57A4 /* YarnDB(GUI).app */,
+				231B1A862DF7B80300EA57A4 /* YarnDB(GUI)Tests.xctest */,
+				231B1A902DF7B80300EA57A4 /* YarnDB(GUI)UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		231B1A722DF7B7FF00EA57A4 /* YarnDB(GUI) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 231B1A9A2DF7B80300EA57A4 /* Build configuration list for PBXNativeTarget "YarnDB(GUI)" */;
+			buildPhases = (
+				231B1A6F2DF7B7FF00EA57A4 /* Sources */,
+				231B1A702DF7B7FF00EA57A4 /* Frameworks */,
+				231B1A712DF7B7FF00EA57A4 /* Resources */,
+				231B1AA52DF7BB3600EA57A4 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				231B1A752DF7B7FF00EA57A4 /* YarnDB(GUI) */,
+			);
+			name = "YarnDB(GUI)";
+			packageProductDependencies = (
+				231B1AAE2DF7BF0000EA57A4 /* Yams */,
+			);
+			productName = "YarnDB(GUI)";
+			productReference = 231B1A732DF7B7FF00EA57A4 /* YarnDB(GUI).app */;
+			productType = "com.apple.product-type.application";
+		};
+		231B1A852DF7B80300EA57A4 /* YarnDB(GUI)Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 231B1A9D2DF7B80400EA57A4 /* Build configuration list for PBXNativeTarget "YarnDB(GUI)Tests" */;
+			buildPhases = (
+				231B1A822DF7B80300EA57A4 /* Sources */,
+				231B1A832DF7B80300EA57A4 /* Frameworks */,
+				231B1A842DF7B80300EA57A4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				231B1A882DF7B80300EA57A4 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				231B1A892DF7B80300EA57A4 /* YarnDB(GUI)Tests */,
+			);
+			name = "YarnDB(GUI)Tests";
+			packageProductDependencies = (
+			);
+			productName = "YarnDB(GUI)Tests";
+			productReference = 231B1A862DF7B80300EA57A4 /* YarnDB(GUI)Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		231B1A8F2DF7B80300EA57A4 /* YarnDB(GUI)UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 231B1AA02DF7B80400EA57A4 /* Build configuration list for PBXNativeTarget "YarnDB(GUI)UITests" */;
+			buildPhases = (
+				231B1A8C2DF7B80300EA57A4 /* Sources */,
+				231B1A8D2DF7B80300EA57A4 /* Frameworks */,
+				231B1A8E2DF7B80300EA57A4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				231B1A922DF7B80300EA57A4 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				231B1A932DF7B80300EA57A4 /* YarnDB(GUI)UITests */,
+			);
+			name = "YarnDB(GUI)UITests";
+			packageProductDependencies = (
+			);
+			productName = "YarnDB(GUI)UITests";
+			productReference = 231B1A902DF7B80300EA57A4 /* YarnDB(GUI)UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		231B1A6B2DF7B7FE00EA57A4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					231B1A722DF7B7FF00EA57A4 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					231B1A852DF7B80300EA57A4 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 231B1A722DF7B7FF00EA57A4;
+					};
+					231B1A8F2DF7B80300EA57A4 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 231B1A722DF7B7FF00EA57A4;
+					};
+				};
+			};
+			buildConfigurationList = 231B1A6E2DF7B7FE00EA57A4 /* Build configuration list for PBXProject "YarnDB(GUI)" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 231B1A6A2DF7B7FE00EA57A4;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				231B1AAD2DF7BEB600EA57A4 /* XCRemoteSwiftPackageReference "Yams" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 231B1A742DF7B7FF00EA57A4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				231B1A722DF7B7FF00EA57A4 /* YarnDB(GUI) */,
+				231B1A852DF7B80300EA57A4 /* YarnDB(GUI)Tests */,
+				231B1A8F2DF7B80300EA57A4 /* YarnDB(GUI)UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		231B1A712DF7B7FF00EA57A4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				231B1AA42DF7BA1400EA57A4 /* yarndb in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		231B1A842DF7B80300EA57A4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		231B1A8E2DF7B80300EA57A4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		231B1A6F2DF7B7FF00EA57A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				231B1AA82DF7BC6A00EA57A4 /* YarnDBViewModel.swift in Sources */,
+				231B1AB12DF7C12500EA57A4 /* YarnDB_GUIApp.swift in Sources */,
+				231B1AB62DF7CDFB00EA57A4 /* TerminalViewModel.swift in Sources */,
+				231B1AB32DF7CDD000EA57A4 /* TerminalView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		231B1A822DF7B80300EA57A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		231B1A8C2DF7B80300EA57A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		231B1A882DF7B80300EA57A4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 231B1A722DF7B7FF00EA57A4 /* YarnDB(GUI) */;
+			targetProxy = 231B1A872DF7B80300EA57A4 /* PBXContainerItemProxy */;
+		};
+		231B1A922DF7B80300EA57A4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 231B1A722DF7B7FF00EA57A4 /* YarnDB(GUI) */;
+			targetProxy = 231B1A912DF7B80300EA57A4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		231B1A982DF7B80300EA57A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.7;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		231B1A992DF7B80300EA57A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.7;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		231B1A9B2DF7B80300EA57A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "YarnDB(GUI)/YarnDB_GUI_.entitlements";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"YarnDB(GUI)/Preview Content\"";
+				DEVELOPMENT_TEAM = W8DH3L5MG8;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "YarnDB-GUI--Info.plist";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "Copy Right Deepfield ML 2024";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Deepfield-ML.YarnDB-GUI-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		231B1A9C2DF7B80300EA57A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "YarnDB(GUI)/YarnDB_GUI_.entitlements";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"YarnDB(GUI)/Preview Content\"";
+				DEVELOPMENT_TEAM = W8DH3L5MG8;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "YarnDB-GUI--Info.plist";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "Copy Right Deepfield ML 2024";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Deepfield-ML.YarnDB-GUI-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		231B1A9E2DF7B80400EA57A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = W8DH3L5MG8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Deepfield-ML.YarnDB-GUI-Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YarnDB(GUI).app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/YarnDB(GUI)";
+			};
+			name = Debug;
+		};
+		231B1A9F2DF7B80400EA57A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = W8DH3L5MG8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Deepfield-ML.YarnDB-GUI-Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YarnDB(GUI).app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/YarnDB(GUI)";
+			};
+			name = Release;
+		};
+		231B1AA12DF7B80400EA57A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = W8DH3L5MG8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Deepfield-ML.YarnDB-GUI-UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "YarnDB(GUI)";
+			};
+			name = Debug;
+		};
+		231B1AA22DF7B80400EA57A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = W8DH3L5MG8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Deepfield-ML.YarnDB-GUI-UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "YarnDB(GUI)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		231B1A6E2DF7B7FE00EA57A4 /* Build configuration list for PBXProject "YarnDB(GUI)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				231B1A982DF7B80300EA57A4 /* Debug */,
+				231B1A992DF7B80300EA57A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		231B1A9A2DF7B80300EA57A4 /* Build configuration list for PBXNativeTarget "YarnDB(GUI)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				231B1A9B2DF7B80300EA57A4 /* Debug */,
+				231B1A9C2DF7B80300EA57A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		231B1A9D2DF7B80400EA57A4 /* Build configuration list for PBXNativeTarget "YarnDB(GUI)Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				231B1A9E2DF7B80400EA57A4 /* Debug */,
+				231B1A9F2DF7B80400EA57A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		231B1AA02DF7B80400EA57A4 /* Build configuration list for PBXNativeTarget "YarnDB(GUI)UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				231B1AA12DF7B80400EA57A4 /* Debug */,
+				231B1AA22DF7B80400EA57A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		231B1AAD2DF7BEB600EA57A4 /* XCRemoteSwiftPackageReference "Yams" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/jpsim/Yams";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 6.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		231B1AAE2DF7BF0000EA57A4 /* Yams */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 231B1AAD2DF7BEB600EA57A4 /* XCRemoteSwiftPackageReference "Yams" */;
+			productName = Yams;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 231B1A6B2DF7B7FE00EA57A4 /* Project object */;
+}
