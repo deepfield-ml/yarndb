@@ -167,7 +167,7 @@ Override with flags:
 
 ## Requirements: 
 - ** At Least 8GB RAM Suggested
-- ** Intel Cored-Mac (Only Intel-Cored Supported Currently)
+- ** MacOS or Linux
 ## License
 Apache 2.0
 
