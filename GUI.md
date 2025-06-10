@@ -13,7 +13,6 @@ This application provides a user-friendly graphical interface that wraps the `ya
 *   **Self-Contained:** The `yarndb` executable is bundled inside the app. No need to install Homebrew or Go.
 *   **Custom Data Directory:** Choose any folder on your Mac to store your database files. The app securely remembers your choice between launches.
 *   **Real-time Command Output:** See the standard output and error messages from every command you run.
-*   **Sandboxed & Secure:** The app uses modern macOS sandboxing and security features to safely access your chosen data folder.
 
 ## Getting Started: First Launch
 
