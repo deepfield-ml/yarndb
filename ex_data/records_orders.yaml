@@ -1,0 +1,1039 @@
+orders_1:
+  user_id: users_21
+  product_ids:
+  - products_17
+  - products_28
+  total_amount: 101.2
+  status: delivered
+  order_date: '2025-01-13T08:57:36.880679'
+  shipping_address:
+    street: 26179 Chad Key
+    city: Lake Melvinmouth
+    state: UT
+    zip_code: '34722'
+orders_2:
+  user_id: users_2
+  product_ids:
+  - products_26
+  - products_24
+  - products_17
+  - products_38
+  total_amount: 32.86
+  status: pending
+  order_date: '2025-02-22T08:49:08.326330'
+  shipping_address:
+    street: 2592 Simmons Mountains
+    city: West Sheila
+    state: SD
+    zip_code: 08002
+orders_3:
+  user_id: users_31
+  product_ids:
+  - products_32
+  - products_26
+  total_amount: 440.68
+  status: shipped
+  order_date: '2024-10-08T14:59:58.186120'
+  shipping_address:
+    street: 0216 Mills Plaza Apt. 890
+    city: West Travisville
+    state: NJ
+    zip_code: '21936'
+orders_4:
+  user_id: users_46
+  product_ids:
+  - products_19
+  - products_33
+  - products_16
+  - products_8
+  total_amount: 222.79
+  status: processing
+  order_date: '2024-10-06T16:42:07.509353'
+  shipping_address:
+    street: 9672 Kristopher Neck Suite 349
+    city: Williamsonport
+    state: WY
+    zip_code: '86836'
+orders_5:
+  user_id: users_20
+  product_ids:
+  - products_18
+  - products_23
+  total_amount: 210.13
+  status: shipped
+  order_date: '2025-05-14T07:48:42.539530'
+  shipping_address:
+    street: 2705 Thomas Cape
+    city: Elizabethfurt
+    state: IL
+    zip_code: '22932'
+orders_6:
+  user_id: users_2
+  product_ids:
+  - products_12
+  total_amount: 160.23
+  status: pending
+  order_date: '2024-08-18T03:46:08.201492'
+  shipping_address:
+    street: 07717 Kara Unions Suite 372
+    city: New Annahaven
+    state: MI
+    zip_code: '50584'
+orders_7:
+  user_id: users_29
+  product_ids:
+  - products_22
+  - products_11
+  - products_1
+  total_amount: 418.99
+  status: cancelled
+  order_date: '2025-01-18T05:20:05.157330'
+  shipping_address:
+    street: 89653 Ayers Bypass Suite 924
+    city: Lake William
+    state: MT
+    zip_code: '98512'
+orders_8:
+  user_id: users_22
+  product_ids:
+  - products_32
+  - products_10
+  total_amount: 388.68
+  status: delivered
+  order_date: '2024-07-04T15:09:57.258578'
+  shipping_address:
+    street: 99326 Cannon Mission Apt. 376
+    city: Whiteberg
+    state: MS
+    zip_code: '82726'
+orders_9:
+  user_id: users_33
+  product_ids:
+  - products_32
+  - products_14
+  total_amount: 365.09
+  status: pending
+  order_date: '2024-09-15T05:08:04.581629'
+  shipping_address:
+    street: 812 Martinez Stravenue Apt. 530
+    city: Port Victoria
+    state: FL
+    zip_code: '92179'
+orders_10:
+  user_id: users_33
+  product_ids:
+  - products_27
+  total_amount: 448.5
+  status: shipped
+  order_date: '2024-08-20T19:06:56.214540'
+  shipping_address:
+    street: 4794 Baker Circles
+    city: West Joseph
+    state: OK
+    zip_code: '29939'
+orders_11:
+  user_id: users_27
+  product_ids:
+  - products_6
+  - products_3
+  - products_39
+  total_amount: 156.8
+  status: processing
+  order_date: '2025-05-11T00:18:32.153970'
+  shipping_address:
+    street: 265 Brian Bridge
+    city: East Justin
+    state: PA
+    zip_code: '43984'
+orders_12:
+  user_id: users_23
+  product_ids:
+  - products_38
+  - products_3
+  - products_36
+  - products_6
+  total_amount: 240.31
+  status: shipped
+  order_date: '2024-09-28T11:28:46.297030'
+  shipping_address:
+    street: 8508 Wood Mission
+    city: Thomasfort
+    state: MS
+    zip_code: '45834'
+orders_13:
+  user_id: users_11
+  product_ids:
+  - products_3
+  total_amount: 247.59
+  status: cancelled
+  order_date: '2024-08-14T08:18:06.306226'
+  shipping_address:
+    street: 4925 Ashley Vista
+    city: Cathystad
+    state: PA
+    zip_code: '87335'
+orders_14:
+  user_id: users_50
+  product_ids:
+  - products_38
+  - products_2
+  - products_37
+  total_amount: 387.24
+  status: cancelled
+  order_date: '2024-07-15T22:43:30.536390'
+  shipping_address:
+    street: 82935 Jill Skyway Suite 301
+    city: North Vincent
+    state: MI
+    zip_code: '20869'
+orders_15:
+  user_id: users_24
+  product_ids:
+  - products_32
+  - products_11
+  total_amount: 214.09
+  status: cancelled
+  order_date: '2024-08-05T14:50:40.508441'
+  shipping_address:
+    street: 7884 Michelle Curve
+    city: Andreaville
+    state: AZ
+    zip_code: '51557'
+orders_16:
+  user_id: users_1
+  product_ids:
+  - products_25
+  total_amount: 187.09
+  status: cancelled
+  order_date: '2024-10-18T12:04:18.431082'
+  shipping_address:
+    street: 24923 Karen Common
+    city: New Alexander
+    state: MS
+    zip_code: 08377
+orders_17:
+  user_id: users_39
+  product_ids:
+  - products_5
+  - products_26
+  total_amount: 451.7
+  status: processing
+  order_date: '2024-10-13T07:37:45.311225'
+  shipping_address:
+    street: 55093 Donald Parkway Suite 303
+    city: Kristenberg
+    state: NM
+    zip_code: '43288'
+orders_18:
+  user_id: users_31
+  product_ids:
+  - products_3
+  - products_30
+  - products_37
+  total_amount: 261.89
+  status: pending
+  order_date: '2024-10-10T03:33:12.003208'
+  shipping_address:
+    street: 450 Nicole Island
+    city: Lake Jenna
+    state: AS
+    zip_code: '46101'
+orders_19:
+  user_id: users_42
+  product_ids:
+  - products_12
+  - products_14
+  - products_11
+  - products_10
+  - products_30
+  total_amount: 30.46
+  status: delivered
+  order_date: '2025-05-09T00:53:47.513996'
+  shipping_address:
+    street: 69272 Taylor Land
+    city: Ewingberg
+    state: WA
+    zip_code: '30974'
+orders_20:
+  user_id: users_34
+  product_ids:
+  - products_5
+  - products_33
+  - products_30
+  - products_2
+  - products_32
+  total_amount: 140.6
+  status: cancelled
+  order_date: '2025-03-31T10:02:00.317190'
+  shipping_address:
+    street: 51655 Gilbert Springs
+    city: New James
+    state: NC
+    zip_code: '83655'
+orders_21:
+  user_id: users_17
+  product_ids:
+  - products_34
+  - products_18
+  - products_35
+  - products_5
+  - products_8
+  total_amount: 209.56
+  status: processing
+  order_date: '2024-08-13T08:28:33.615950'
+  shipping_address:
+    street: 9663 Coleman Stravenue Suite 461
+    city: North Alexandra
+    state: KS
+    zip_code: '87547'
+orders_22:
+  user_id: users_15
+  product_ids:
+  - products_37
+  - products_30
+  - products_20
+  total_amount: 108.14
+  status: delivered
+  order_date: '2025-06-01T06:51:58.564130'
+  shipping_address:
+    street: 8753 Duffy View Apt. 313
+    city: Port Jennashire
+    state: KS
+    zip_code: '37662'
+orders_23:
+  user_id: users_40
+  product_ids:
+  - products_33
+  - products_26
+  - products_22
+  - products_3
+  - products_30
+  total_amount: 288.94
+  status: pending
+  order_date: '2024-07-08T20:28:38.230254'
+  shipping_address:
+    street: 735 Hansen Via Suite 865
+    city: West Tracey
+    state: MD
+    zip_code: '46270'
+orders_24:
+  user_id: users_33
+  product_ids:
+  - products_40
+  - products_10
+  - products_22
+  - products_29
+  total_amount: 378.88
+  status: delivered
+  order_date: '2025-04-25T03:03:53.831486'
+  shipping_address:
+    street: 104 Evans Ramp Suite 996
+    city: Riveraton
+    state: NC
+    zip_code: '60529'
+orders_25:
+  user_id: users_48
+  product_ids:
+  - products_7
+  - products_35
+  - products_32
+  - products_25
+  total_amount: 309.97
+  status: cancelled
+  order_date: '2025-04-19T02:39:13.621691'
+  shipping_address:
+    street: 33057 Eric Court
+    city: North Cameronberg
+    state: PA
+    zip_code: '34062'
+orders_26:
+  user_id: users_23
+  product_ids:
+  - products_28
+  - products_19
+  total_amount: 352.2
+  status: cancelled
+  order_date: '2024-12-15T09:52:51.239021'
+  shipping_address:
+    street: 31100 Angela Valley Apt. 899
+    city: Stevenborough
+    state: MS
+    zip_code: '78325'
+orders_27:
+  user_id: users_37
+  product_ids:
+  - products_28
+  - products_12
+  - products_38
+  - products_11
+  total_amount: 314.01
+  status: delivered
+  order_date: '2025-04-17T00:13:00.088191'
+  shipping_address:
+    street: 024 Peter Summit
+    city: Port Jillland
+    state: IL
+    zip_code: '82820'
+orders_28:
+  user_id: users_42
+  product_ids:
+  - products_4
+  - products_8
+  - products_33
+  - products_19
+  total_amount: 203.73
+  status: delivered
+  order_date: '2025-02-08T02:26:48.683858'
+  shipping_address:
+    street: 91349 Neal Streets
+    city: Lake Melindaside
+    state: HI
+    zip_code: '80786'
+orders_29:
+  user_id: users_43
+  product_ids:
+  - products_24
+  - products_14
+  total_amount: 116.79
+  status: shipped
+  order_date: '2024-10-17T19:52:43.156988'
+  shipping_address:
+    street: 166 Hughes Radial Apt. 251
+    city: Leefort
+    state: AK
+    zip_code: '54577'
+orders_30:
+  user_id: users_30
+  product_ids:
+  - products_6
+  - products_39
+  total_amount: 409.72
+  status: cancelled
+  order_date: '2024-10-06T08:12:20.375995'
+  shipping_address:
+    street: 49540 Skinner Ford
+    city: West Travischester
+    state: ID
+    zip_code: '77173'
+orders_31:
+  user_id: users_31
+  product_ids:
+  - products_15
+  - products_3
+  total_amount: 375.57
+  status: pending
+  order_date: '2024-11-27T22:00:21.102076'
+  shipping_address:
+    street: 88318 Monica Mountains Suite 962
+    city: South Janet
+    state: NH
+    zip_code: '36275'
+orders_32:
+  user_id: users_8
+  product_ids:
+  - products_12
+  total_amount: 99.78
+  status: pending
+  order_date: '2024-08-05T21:42:42.086966'
+  shipping_address:
+    street: 63635 Villegas Plaza Apt. 713
+    city: New Duane
+    state: PA
+    zip_code: '96288'
+orders_33:
+  user_id: users_24
+  product_ids:
+  - products_15
+  - products_27
+  - products_10
+  - products_30
+  total_amount: 314.1
+  status: pending
+  order_date: '2025-03-02T07:54:13.319357'
+  shipping_address:
+    street: 318 Michael Corner Suite 553
+    city: Henrytown
+    state: UT
+    zip_code: '88863'
+orders_34:
+  user_id: users_17
+  product_ids:
+  - products_13
+  - products_5
+  total_amount: 424.61
+  status: delivered
+  order_date: '2025-04-14T13:52:08.044605'
+  shipping_address:
+    street: 101 Daniel Track
+    city: North Jenniferfurt
+    state: WA
+    zip_code: '52166'
+orders_35:
+  user_id: users_43
+  product_ids:
+  - products_21
+  total_amount: 80.23
+  status: shipped
+  order_date: '2025-05-05T09:48:40.266273'
+  shipping_address:
+    street: 873 Hale Lake
+    city: North Pamelamouth
+    state: GA
+    zip_code: '32894'
+orders_36:
+  user_id: users_40
+  product_ids:
+  - products_22
+  - products_11
+  - products_27
+  - products_10
+  - products_17
+  total_amount: 45.7
+  status: pending
+  order_date: '2024-10-18T14:55:28.806518'
+  shipping_address:
+    street: 918 Samantha Shore
+    city: Anthonychester
+    state: VT
+    zip_code: '19838'
+orders_37:
+  user_id: users_25
+  product_ids:
+  - products_9
+  - products_35
+  - products_8
+  - products_31
+  total_amount: 324.83
+  status: delivered
+  order_date: '2025-05-06T10:28:19.464262'
+  shipping_address:
+    street: 807 Anderson Pike Suite 361
+    city: North Noahmouth
+    state: PW
+    zip_code: '68673'
+orders_38:
+  user_id: users_2
+  product_ids:
+  - products_22
+  total_amount: 91.24
+  status: cancelled
+  order_date: '2024-10-10T00:07:05.611139'
+  shipping_address:
+    street: 33162 George Coves Apt. 439
+    city: Nelsonfurt
+    state: PR
+    zip_code: '10372'
+orders_39:
+  user_id: users_29
+  product_ids:
+  - products_24
+  - products_8
+  - products_2
+  total_amount: 308.86
+  status: delivered
+  order_date: '2025-03-09T03:53:02.628962'
+  shipping_address:
+    street: 653 Dalton Dale Apt. 665
+    city: North Larry
+    state: AK
+    zip_code: 00825
+orders_40:
+  user_id: users_37
+  product_ids:
+  - products_9
+  - products_4
+  - products_34
+  - products_3
+  total_amount: 331.02
+  status: processing
+  order_date: '2024-11-04T02:31:57.884138'
+  shipping_address:
+    street: 0951 Morris Fields
+    city: Laurenmouth
+    state: VI
+    zip_code: '23595'
+orders_41:
+  user_id: users_3
+  product_ids:
+  - products_23
+  - products_18
+  - products_27
+  - products_6
+  - products_31
+  total_amount: 365.88
+  status: pending
+  order_date: '2025-05-09T19:05:34.715449'
+  shipping_address:
+    street: 98486 Ronnie Crest
+    city: West Marcustown
+    state: RI
+    zip_code: '79237'
+orders_42:
+  user_id: users_50
+  product_ids:
+  - products_31
+  - products_29
+  - products_38
+  - products_23
+  - products_19
+  total_amount: 441.89
+  status: cancelled
+  order_date: '2024-08-21T23:11:38.429821'
+  shipping_address:
+    street: 27005 Anthony Stravenue
+    city: Lake Phillip
+    state: SC
+    zip_code: '42736'
+orders_43:
+  user_id: users_27
+  product_ids:
+  - products_38
+  total_amount: 116.95
+  status: delivered
+  order_date: '2024-06-18T12:22:30.930812'
+  shipping_address:
+    street: 693 Jessica Field Suite 432
+    city: South Sarafort
+    state: VI
+    zip_code: '12965'
+orders_44:
+  user_id: users_3
+  product_ids:
+  - products_9
+  - products_5
+  total_amount: 51.28
+  status: processing
+  order_date: '2025-02-05T03:01:37.526429'
+  shipping_address:
+    street: 26770 Debra Harbor
+    city: Weavermouth
+    state: MH
+    zip_code: '67858'
+orders_45:
+  user_id: users_23
+  product_ids:
+  - products_17
+  - products_14
+  - products_16
+  total_amount: 326.94
+  status: processing
+  order_date: '2024-10-15T06:25:37.177991'
+  shipping_address:
+    street: 902 Jordan River Apt. 195
+    city: Thomasberg
+    state: OK
+    zip_code: '38877'
+orders_46:
+  user_id: users_38
+  product_ids:
+  - products_15
+  - products_31
+  - products_37
+  total_amount: 99.2
+  status: cancelled
+  order_date: '2024-11-14T03:49:13.020688'
+  shipping_address:
+    street: 18233 Jeanette Tunnel
+    city: North Samuel
+    state: PA
+    zip_code: '98829'
+orders_47:
+  user_id: users_3
+  product_ids:
+  - products_36
+  - products_14
+  - products_8
+  - products_34
+  - products_6
+  total_amount: 29.94
+  status: processing
+  order_date: '2025-01-08T02:32:44.447955'
+  shipping_address:
+    street: 1373 Michael Court
+    city: South Joelborough
+    state: FM
+    zip_code: '65564'
+orders_48:
+  user_id: users_29
+  product_ids:
+  - products_11
+  total_amount: 234.24
+  status: pending
+  order_date: '2025-03-20T00:20:29.189794'
+  shipping_address:
+    street: 9695 Lauren Circle
+    city: Haynesfort
+    state: IA
+    zip_code: '96619'
+orders_49:
+  user_id: users_3
+  product_ids:
+  - products_5
+  - products_11
+  - products_34
+  - products_30
+  - products_18
+  total_amount: 326.87
+  status: cancelled
+  order_date: '2025-05-25T11:09:13.940585'
+  shipping_address:
+    street: 36917 Jackson Pike
+    city: Port Christopher
+    state: WI
+    zip_code: '14332'
+orders_50:
+  user_id: users_49
+  product_ids:
+  - products_28
+  - products_40
+  - products_1
+  - products_32
+  - products_37
+  total_amount: 228.52
+  status: pending
+  order_date: '2024-08-12T11:23:15.103434'
+  shipping_address:
+    street: 17630 Melanie Causeway
+    city: Lake Jeffery
+    state: NE
+    zip_code: '24224'
+orders_51:
+  user_id: users_8
+  product_ids:
+  - products_14
+  total_amount: 108.47
+  status: cancelled
+  order_date: '2024-11-21T01:31:50.417352'
+  shipping_address:
+    street: 299 Chan Forks
+    city: Port Brooke
+    state: OK
+    zip_code: 05283
+orders_52:
+  user_id: users_39
+  product_ids:
+  - products_14
+  - products_9
+  - products_39
+  - products_17
+  - products_7
+  total_amount: 248.46
+  status: pending
+  order_date: '2025-01-13T03:11:12.678877'
+  shipping_address:
+    street: 27107 Mark Harbor Suite 062
+    city: Timothymouth
+    state: TX
+    zip_code: '87601'
+orders_53:
+  user_id: users_9
+  product_ids:
+  - products_9
+  - products_3
+  - products_36
+  total_amount: 273.46
+  status: pending
+  order_date: '2025-02-11T21:44:29.933017'
+  shipping_address:
+    street: 9464 Gerald Springs
+    city: Port Richard
+    state: MN
+    zip_code: '31592'
+orders_54:
+  user_id: users_13
+  product_ids:
+  - products_18
+  total_amount: 366.62
+  status: delivered
+  order_date: '2025-01-18T23:09:07.088704'
+  shipping_address:
+    street: 74629 Jennifer Lodge
+    city: Rodneychester
+    state: NV
+    zip_code: '85344'
+orders_55:
+  user_id: users_9
+  product_ids:
+  - products_38
+  - products_6
+  - products_17
+  - products_32
+  total_amount: 378.15
+  status: pending
+  order_date: '2024-12-30T01:18:01.706824'
+  shipping_address:
+    street: 9994 Martinez Island
+    city: Staceystad
+    state: WA
+    zip_code: '47890'
+orders_56:
+  user_id: users_19
+  product_ids:
+  - products_28
+  - products_25
+  - products_40
+  - products_20
+  total_amount: 359.31
+  status: cancelled
+  order_date: '2024-12-21T01:57:05.877874'
+  shipping_address:
+    street: 29055 Turner Way
+    city: Kimberlyhaven
+    state: NM
+    zip_code: '25968'
+orders_57:
+  user_id: users_3
+  product_ids:
+  - products_7
+  - products_31
+  total_amount: 171.94
+  status: shipped
+  order_date: '2024-10-29T07:37:42.172351'
+  shipping_address:
+    street: 07215 Stanley Greens
+    city: North Jessicahaven
+    state: MH
+    zip_code: '65844'
+orders_58:
+  user_id: users_5
+  product_ids:
+  - products_23
+  - products_38
+  total_amount: 357.56
+  status: delivered
+  order_date: '2025-02-21T21:55:04.941569'
+  shipping_address:
+    street: 29782 Davidson Viaduct
+    city: Dorseyberg
+    state: NC
+    zip_code: '28610'
+orders_59:
+  user_id: users_32
+  product_ids:
+  - products_39
+  - products_21
+  - products_9
+  total_amount: 249.41
+  status: shipped
+  order_date: '2024-08-10T00:22:38.022957'
+  shipping_address:
+    street: 15358 Johnson Avenue Apt. 894
+    city: West Logan
+    state: VA
+    zip_code: '88802'
+orders_60:
+  user_id: users_12
+  product_ids:
+  - products_39
+  - products_11
+  - products_36
+  total_amount: 63.77
+  status: cancelled
+  order_date: '2025-02-12T06:11:26.999581'
+  shipping_address:
+    street: 043 Bradley Mission Suite 639
+    city: South Stephanie
+    state: MI
+    zip_code: '20393'
+orders_61:
+  user_id: users_1
+  product_ids:
+  - products_40
+  total_amount: 45.65
+  status: cancelled
+  order_date: '2024-07-16T05:56:42.479149'
+  shipping_address:
+    street: 478 Wilson Courts
+    city: North Stephanie
+    state: NH
+    zip_code: '95093'
+orders_62:
+  user_id: users_33
+  product_ids:
+  - products_33
+  - products_10
+  total_amount: 133.19
+  status: cancelled
+  order_date: '2024-08-05T12:28:22.266617'
+  shipping_address:
+    street: 62296 Oneill Village Suite 274
+    city: East Jamiebury
+    state: KS
+    zip_code: '50885'
+orders_63:
+  user_id: users_18
+  product_ids:
+  - products_15
+  total_amount: 133.73
+  status: shipped
+  order_date: '2025-01-01T23:13:29.839363'
+  shipping_address:
+    street: 968 Nguyen Grove
+    city: Kennedytown
+    state: ND
+    zip_code: '35221'
+orders_64:
+  user_id: users_8
+  product_ids:
+  - products_39
+  - products_12
+  - products_8
+  - products_23
+  total_amount: 32.54
+  status: processing
+  order_date: '2025-06-12T18:03:59.527771'
+  shipping_address:
+    street: 24971 Torres Mountains
+    city: Danaport
+    state: KY
+    zip_code: '60209'
+orders_65:
+  user_id: users_33
+  product_ids:
+  - products_37
+  - products_28
+  - products_23
+  total_amount: 166.82
+  status: processing
+  order_date: '2024-09-29T19:21:08.601125'
+  shipping_address:
+    street: 682 Andrade Turnpike Apt. 156
+    city: North Susanport
+    state: UT
+    zip_code: '33532'
+orders_66:
+  user_id: users_33
+  product_ids:
+  - products_28
+  - products_10
+  - products_8
+  total_amount: 376.93
+  status: pending
+  order_date: '2025-01-25T13:31:13.144061'
+  shipping_address:
+    street: 683 Boyd Park Suite 619
+    city: South Courtneytown
+    state: WV
+    zip_code: '64897'
+orders_67:
+  user_id: users_29
+  product_ids:
+  - products_6
+  - products_8
+  - products_17
+  total_amount: 497.28
+  status: delivered
+  order_date: '2024-08-12T08:17:44.043305'
+  shipping_address:
+    street: 99043 Jeffrey Mall
+    city: South Jasonmouth
+    state: KS
+    zip_code: '16975'
+orders_68:
+  user_id: users_15
+  product_ids:
+  - products_32
+  - products_33
+  - products_16
+  - products_35
+  - products_14
+  total_amount: 306.29
+  status: cancelled
+  order_date: '2025-05-12T17:23:33.705463'
+  shipping_address:
+    street: 660 Shannon Oval
+    city: Gallagherview
+    state: AL
+    zip_code: '32489'
+orders_69:
+  user_id: users_29
+  product_ids:
+  - products_4
+  total_amount: 362.42
+  status: processing
+  order_date: '2024-08-23T05:27:46.203167'
+  shipping_address:
+    street: 06073 Johnson Mountains Suite 941
+    city: New Matthew
+    state: WV
+    zip_code: '50610'
+orders_70:
+  user_id: users_24
+  product_ids:
+  - products_35
+  - products_25
+  total_amount: 35.45
+  status: delivered
+  order_date: '2024-07-15T01:01:08.073571'
+  shipping_address:
+    street: 664 William Branch
+    city: Samanthamouth
+    state: ND
+    zip_code: '12303'
+orders_71:
+  user_id: users_5
+  product_ids:
+  - products_25
+  total_amount: 109.15
+  status: shipped
+  order_date: '2024-11-16T18:53:03.741614'
+  shipping_address:
+    street: 60442 Morgan Stream
+    city: Port Julie
+    state: ME
+    zip_code: '75174'
+orders_72:
+  user_id: users_15
+  product_ids:
+  - products_31
+  total_amount: 488.27
+  status: shipped
+  order_date: '2024-06-24T09:23:05.547810'
+  shipping_address:
+    street: 6604 Sanchez Route Apt. 713
+    city: Franciston
+    state: WY
+    zip_code: '99580'
+orders_73:
+  user_id: users_33
+  product_ids:
+  - products_16
+  - products_21
+  - products_38
+  - products_10
+  total_amount: 270.0
+  status: processing
+  order_date: '2024-11-04T19:13:06.627557'
+  shipping_address:
+    street: 7796 Melanie Place
+    city: South Brenda
+    state: AZ
+    zip_code: '39702'
+orders_74:
+  user_id: users_8
+  product_ids:
+  - products_35
+  - products_3
+  - products_14
+  total_amount: 399.79
+  status: processing
+  order_date: '2024-07-18T19:27:09.426074'
+  shipping_address:
+    street: 36956 Reed Path Suite 184
+    city: Johnsonmouth
+    state: VA
+    zip_code: '29607'
+orders_75:
+  user_id: users_10
+  product_ids:
+  - products_10
+  - products_15
+  - products_29
+  total_amount: 375.22
+  status: shipped
+  order_date: '2024-08-04T04:01:41.688324'
+  shipping_address:
+    street: 5903 Jason Ford
+    city: West Kevinfort
+    state: FM
+    zip_code: '87576'

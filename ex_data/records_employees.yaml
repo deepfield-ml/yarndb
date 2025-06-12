@@ -1,0 +1,200 @@
+employees_1:
+  name: Kristin Mendez
+  employee_id: 0fe12196-b329-47f0-963b-55c552325aa1
+  department: hr
+  position: Psychotherapist, dance movement
+  salary: 128483
+  hire_date: '2024-04-04'
+  manager_id: null
+employees_2:
+  name: Jodi Turner
+  employee_id: 3782bf0d-7300-4766-8f15-7c65fad32240
+  department: hr
+  position: Herbalist
+  salary: 88193
+  hire_date: '2024-11-19'
+  manager_id: null
+employees_3:
+  name: Laurie Ramirez
+  employee_id: 12ae49f1-0e26-4f37-9b08-ab1af8cc5ea7
+  department: operations
+  position: Marine scientist
+  salary: 140774
+  hire_date: '2023-05-20'
+  manager_id: employees_1
+employees_4:
+  name: Melissa Davis
+  employee_id: 8bfaf4ad-0872-434c-86a4-99f7651fa226
+  department: operations
+  position: Veterinary surgeon
+  salary: 95077
+  hire_date: '2023-03-31'
+  manager_id: null
+employees_5:
+  name: Richard Moore
+  employee_id: c03ea7a2-4955-4287-b645-cd9073d70697
+  department: operations
+  position: Multimedia programmer
+  salary: 129302
+  hire_date: '2023-08-13'
+  manager_id: employees_3
+employees_6:
+  name: Christian Buchanan
+  employee_id: 23ac70ff-80a1-4e8e-ae3e-7edc139d1aea
+  department: engineering
+  position: Dance movement psychotherapist
+  salary: 139169
+  hire_date: '2022-04-03'
+  manager_id: employees_1
+employees_7:
+  name: Robin Burns
+  employee_id: 7efc2278-79a7-4281-a129-f707d6024ede
+  department: engineering
+  position: Herpetologist
+  salary: 148506
+  hire_date: '2025-03-31'
+  manager_id: employees_4
+employees_8:
+  name: Joseph Jones
+  employee_id: d072ef38-b115-41c2-ac46-8cd45c842b3c
+  department: finance
+  position: Engineer, agricultural
+  salary: 55531
+  hire_date: '2022-04-26'
+  manager_id: employees_1
+employees_9:
+  name: Susan Salas
+  employee_id: 0d5930ef-d247-4297-8b1f-d04631cd8dd2
+  department: sales
+  position: Quarry manager
+  salary: 41784
+  hire_date: '2023-12-24'
+  manager_id: employees_4
+employees_10:
+  name: Christine West
+  employee_id: 14574df1-30c8-456d-84bf-e6a392b0e2ad
+  department: operations
+  position: Restaurant manager, fast food
+  salary: 97600
+  hire_date: '2021-02-09'
+  manager_id: null
+employees_11:
+  name: Steven Decker
+  employee_id: 2ceaeeb7-3a2b-407e-8da1-3f3bd2075f07
+  department: operations
+  position: Airline pilot
+  salary: 90955
+  hire_date: '2023-11-18'
+  manager_id: null
+employees_12:
+  name: Christina Sandoval
+  employee_id: 550bbb20-3317-444b-9d01-5c3b3e3de0fd
+  department: operations
+  position: Clinical embryologist
+  salary: 129986
+  hire_date: '2024-08-30'
+  manager_id: null
+employees_13:
+  name: Patrick Preston
+  employee_id: 0fd595ac-6221-4c23-8319-ff7752cb35e0
+  department: operations
+  position: Pensions consultant
+  salary: 40259
+  hire_date: '2025-01-11'
+  manager_id: employees_12
+employees_14:
+  name: Nathan Orozco
+  employee_id: 93bf6f26-50c2-47e4-bdf4-e4f5aba79608
+  department: operations
+  position: Energy engineer
+  salary: 119286
+  hire_date: '2023-04-29'
+  manager_id: employees_7
+employees_15:
+  name: Anthony Wong
+  employee_id: 1b5869e9-2860-4312-92e0-c21117950fb8
+  department: marketing
+  position: Colour technologist
+  salary: 133454
+  hire_date: '2024-09-30'
+  manager_id: null
+employees_16:
+  name: Evan Williams
+  employee_id: 3fb0663d-bc69-4a36-ada1-aadecabe9e76
+  department: engineering
+  position: Physicist, medical
+  salary: 69282
+  hire_date: '2022-02-08'
+  manager_id: employees_8
+employees_17:
+  name: David Johnson
+  employee_id: ed8f6660-e6b5-4d59-b1b4-9a5293c949e0
+  department: sales
+  position: General practice doctor
+  salary: 40474
+  hire_date: '2023-07-22'
+  manager_id: employees_4
+employees_18:
+  name: Kevin Curtis
+  employee_id: 16ec2113-2556-45a7-aa49-9c8a213fb730
+  department: finance
+  position: Animal technologist
+  salary: 69270
+  hire_date: '2023-03-05'
+  manager_id: employees_16
+employees_19:
+  name: Jessica Roberson
+  employee_id: da6f7adb-9d83-49c3-bee8-c0f5b6418d60
+  department: sales
+  position: Teacher, primary school
+  salary: 68338
+  hire_date: '2022-01-12'
+  manager_id: employees_18
+employees_20:
+  name: Seth Castillo
+  employee_id: 2a2c3c4a-cbdb-4c27-9dff-2be478659a41
+  department: engineering
+  position: Tour manager
+  salary: 102620
+  hire_date: '2024-02-14'
+  manager_id: employees_15
+employees_21:
+  name: Anthony Bell
+  employee_id: a6855ced-05b7-4bd7-b0f7-f8f6697fecec
+  department: marketing
+  position: Aeronautical engineer
+  salary: 41469
+  hire_date: '2024-08-18'
+  manager_id: null
+employees_22:
+  name: Daniel Spears
+  employee_id: 6f0329e3-8d62-4faf-8690-16ced4a2ca40
+  department: marketing
+  position: Psychologist, occupational
+  salary: 146590
+  hire_date: '2023-04-10'
+  manager_id: employees_4
+employees_23:
+  name: Michael Myers
+  employee_id: 381c3447-6ee8-4ff0-ac3f-098e41bf4245
+  department: finance
+  position: Horticulturist, commercial
+  salary: 53756
+  hire_date: '2021-11-26'
+  manager_id: null
+employees_24:
+  name: Danny Patterson
+  employee_id: 1db21b07-b4da-4817-a262-ae51004b95c7
+  department: marketing
+  position: Administrator, Civil Service
+  salary: 59392
+  hire_date: '2023-07-03'
+  manager_id: null
+employees_25:
+  name: Matthew Parker
+  employee_id: 1be9eccb-d0df-4fd3-b884-28e39e68f786
+  department: engineering
+  position: Financial manager
+  salary: 63234
+  hire_date: '2022-02-09'
+  manager_id: null
